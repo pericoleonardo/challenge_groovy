@@ -31,5 +31,4 @@ Critérios adicionais e pontos extras:
   - Criptografar o atributo senha em AES 256bits;
   - Criar os scripts de execução seguindo o modelo de projeto gradle;
   - Descrição dos itens feitos nos commits;
-  - Tests unitários;
   
